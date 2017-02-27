@@ -1,7 +1,7 @@
 # RuletkaAutomatyczna
 Aplikacja na PC/tablet z Windows 
 
-Copyright Piotr Baczyński-Kaczmarek
+Copyright by Piotr Baczyński-Kaczmarek
 
 
 Version: Alpha 0.6.9.0
@@ -41,16 +41,3 @@ Bets min and max         -       working
 Highlighting Winnning N  -       working
 
 Save Game                -       working (Ver. 0.6.9.0)
-
-Soundtrack               -       work in progress(Ver.0.7.0.0)
-
-Statistics               -       work in progress(Ver.0.7.1.0)
-
-Database                 -       work in progress(Ver.0.8.0.0)
-
-Server with Achievements -       work in progress(Ver.0.8.1.0)
-
-Spin Animation           -       work in progress(Ver.0.9.0.0)
-
-
-Do not copy without permission.
